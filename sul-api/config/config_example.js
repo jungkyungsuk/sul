@@ -2,6 +2,12 @@
 
 module.exports = function() {
   return {
+    mysql: {
+      host : '',
+      user : '',
+      password : '',
+      database : '',
+    },
     aws: {
       bucket: '',
     },
