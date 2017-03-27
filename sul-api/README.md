@@ -8,5 +8,5 @@
   ./confing/config.js
 
   Run file
-  ./bin/var
+  ./bin/www
 
